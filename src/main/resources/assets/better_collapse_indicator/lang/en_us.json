@@ -1,0 +1,17 @@
+{
+  "config.jade.plugin_better_collapse_indicator.landslide": "Detect Landslide",
+  "config.jade.plugin_better_collapse_indicator.collapse": "Detect Collapse (Cave-in)",
+  "config.jade.plugin_better_collapse_indicator.collapse.show_support": "Show Supported/Unsupported",
+  "config.jade.plugin_better_collapse_indicator.collapse.show_trigger_collapse": "Warn about possible collapse",
+  "config.jade.plugin_better_collapse_indicator.collapse.show_unstable_location": "Show exact unstable location",
+
+
+  "better_collapse_indicator.will_landslide": "Will fall if disturbed",
+  "better_collapse_indicator.cause_landslide": "Causes landslide if mined",
+  "better_collapse_indicator.supported": "Supported by Beam",
+  "better_collapse_indicator.partial_supported": "Naturally Supported",
+  "better_collapse_indicator.unsupported": "Unsupported (May Collapse!)",
+  "better_collapse_indicator.will_cause_collapse": "May Cause Collapse if Mined",
+  "better_collapse_indicator.unstable": "%s nearby blocks unsupported (closest: %s)",
+  "better_collapse_indicator.wont_collapse": "Stable, Wont Start Collapse"
+}

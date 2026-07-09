@@ -1,0 +1,16 @@
+{
+  "config.jade.plugin_better_collapse_indicator.landslide": "显示土地滑坡",
+  "config.jade.plugin_better_collapse_indicator.collapse": "显示岩石塌方",
+  "config.jade.plugin_better_collapse_indicator.collapse.show_support": "岩石支撑状态",
+  "config.jade.plugin_better_collapse_indicator.collapse.show_trigger_collapse": "塌方风险",
+  "config.jade.plugin_better_collapse_indicator.collapse.show_unstable_location": "潜在塌方位置",
+
+  "better_collapse_indicator.will_landslide": "未被支撑，将会滑坡",
+  "better_collapse_indicator.cause_landslide": "挖掘会导致滑坡",
+  "better_collapse_indicator.supported": "范围内有支撑梁",
+  "better_collapse_indicator.partial_supported": "下方有支撑",
+  "better_collapse_indicator.unsupported": "未被支撑，可能塌方",
+  "better_collapse_indicator.will_cause_collapse": "可能会导致塌方",
+  "better_collapse_indicator.unstable": "附近有 %s 方块未被支撑（最近的: %s）",
+  "better_collapse_indicator.wont_collapse": "稳定"
+}

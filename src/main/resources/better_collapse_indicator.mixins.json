@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.blazemc.better_collapse_indicator.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "better_collapse_indicator.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
